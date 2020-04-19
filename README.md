@@ -1,2 +1,2 @@
 # Playing with Google Map
-<img src="github/mapsstylr.jpg" width = "100%">
+<img src="mapstylr.jpg" width = "40%">
